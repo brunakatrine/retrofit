@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_planet_name">Planet Name:</string>
+    <string name="hint_rotation_period">Rotation Period:</string>
+    <string name="hint_orbital_period">Orbital Period:</string>
+    <string name="hint_diameter">Diameter:</string>
+    <string name="hint_climate">Climate:</string>
+    <string name="hint_gravity">Gravity:</string>
+    <string name="hint_terrain">Terrain:</string>
+    <string name="hint_surface_water">Surface Water:</string>
+    <string name="hint_population">Population:</string>
+    <string name="hint_pesquisar_planetas">Pesquisar Planetas</string>
+</resources>
